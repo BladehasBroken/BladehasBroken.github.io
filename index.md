@@ -1,3 +1,6 @@
+---
+layout: home
+---
 # Jiale Li
 802-2080 Pembina Hwy, Winnipeg, Manitoba  
 +1(204-890-2529)  
