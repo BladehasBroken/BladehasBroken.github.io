@@ -63,7 +63,7 @@ GitHub is the most popular distributed version control in the world, it allows d
 10. Set the Source to "Deploy from a branch"
 11. Set the Branch to "gh-pages" and select folder from "root"
 12. Wait for a few minutes, we can see our resume is on the website  
-(The url is same as our repository name)
+(The URL is the same as our repository name)
 <center><img src="repo_name.gif" width = "" height = ""></center>
 <center><img src="commit.gif" width = "" height = ""></center>
 <center><img src="showResume.gif" width = "" height = ""></center>

@@ -86,7 +86,7 @@ A: "Maybe it's because you install the newest version of ruby, try to install th
 
 ## Contact  
 Jiale Li - lij34556@myumanitoba.ca  
-Project Link: https://github.com/BladehasBroken/BladehasBroken.github.io/tree/gh-pages  
+Project Link: https://github.com/BladehasBroken/BladehasBroken.github.io  
 
 ## Acknowledgments  
 (This component follows "the legal problem" in _Modern Technical Writing_. I add some references that I have used in this project, so that I won't be involvded in legal problems.)
